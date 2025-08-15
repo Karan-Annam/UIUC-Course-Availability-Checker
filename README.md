@@ -27,6 +27,9 @@ Originally designed to monitor **ECE 210 — Analog Signal Processing (AL2)** fo
 
 ---
 
+##Usage
+- TO BE UPDATED ONCE READY FOR USE
+
 ## Installation
 
 ```bash
